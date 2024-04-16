@@ -1,0 +1,5 @@
+
+
+export const PRODUCT_SERVICES = 'PRODUCT_SERVICES'
+
+export const NATS_SERVICES = 'NATS_SERVICES'
