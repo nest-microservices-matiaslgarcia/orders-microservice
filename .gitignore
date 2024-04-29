@@ -1,9 +1,11 @@
-.env
-
 # compiled output
 /dist
 /node_modules
 /build
+
+
+postgres/
+
 
 # Logs
 logs
@@ -11,7 +13,7 @@ logs
 npm-debug.log*
 pnpm-debug.log*
 yarn-debug.log*
-yarn-error.log*d
+yarn-error.log*
 lerna-debug.log*
 
 # OS
